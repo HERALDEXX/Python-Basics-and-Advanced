@@ -1,0 +1,6 @@
+[submodule "advanced_python/projects/habit_tracker_2.0"]
+	path = advanced_python/projects/habit_tracker_2.0
+	url = https://github.com/HERALDEXX/habit-tracker.git
+[submodule "advanced_python/projects/freelancer_project_tracker/freelancer_project_tracker"]
+	path = advanced_python/projects/freelancer_project_tracker/freelancer_project_tracker
+	url = https://github.com/HERALDEXX/freelancer-project-tracker.git
