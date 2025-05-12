@@ -1,0 +1,12 @@
+1. Write a function called reverse() that takes a string as an argument and rewrites it backwards. E.g you pass "hello" the function and it returns "olleh"
+2. Create a function that asks the user for two numbers and prints out the sum, difference, product, and quotient of those numbers.
+3. Create a program that takes a list of numbers and returns the sum of all the even numbers in the list.
+4. Create a program that takes a list of strings and returns the longest string in the list
+5. Write a function that calculates the factorial of a given number. Factorial means to multiply each number by the number-1 till it gets to 1. 5 factorial (5*4*3*2*1)
+6. Write a program that generates a random number between 1 and 100 and asks the user to guess it. The program should provide feedback on whether the guess is too high or too low until the user guesses correctly.
+7. Write a function that takes a list of integers and returns a new list with all the duplicate values removed.
+8. Write a function that takes a list of strings and returns a new list with all the vowels removed from each string.
+9. Write a program that calculates the sum of all even numbers between 1 and a given number.
+10. Write a calculator program that asks a user to enter two numbers, select what operation they want to perform on it, and it returns the answer.
+11. Create a password generator function that suggests a password for a user that meets the requirements of having 8 characters has both numbers and letters and special characters.
+12. Create a python function that tells the current time and date each time you can it

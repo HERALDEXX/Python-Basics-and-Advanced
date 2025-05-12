@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "github.remotehub",
+    "gurayyarar.dummytextgenerator",
+    "ms-python.python",
+    "ritwickdey.liveserver",
+    "esbenp.prettier-vscode",
+    "ms-python.debugpy",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
