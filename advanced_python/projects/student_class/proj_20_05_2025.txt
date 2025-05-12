@@ -1,0 +1,1 @@
+Create a class called Student with five attributes. This class should have a method called study that prints a message indicating that the student is studying. You will explain the concepts and how this is useful in the real-world.

@@ -1,0 +1,1 @@
+create a list of daily habits (between 3-5) and simulate daily logs(check-ins) as a tuple then loop through the list of habits and ask users questions if they carried out each of these habits that day then record each daily log in a tuple format "(Habit, Date, Boolean)". The app should automatically generate and add the daily logs in the same python file.
